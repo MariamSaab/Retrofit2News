@@ -1,0 +1,2 @@
+rootProject.name = "Retrofit2News"
+include ':app'
